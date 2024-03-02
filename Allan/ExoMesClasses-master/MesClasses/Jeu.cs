@@ -26,6 +26,7 @@ namespace MesClasses
 
             //Arme epeeLongue
             //Arme baton
+            //Test
 
             Armure armureCuir = new Armure();
             armureCuir.nom = "Armure de Cuir";
